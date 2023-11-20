@@ -1,12 +1,25 @@
-## Hi there 👋
+<div align="center">
+    <img src="img/white-trans-logo.png" alt="Logo" width="100" height="100">
+  </a>
 
-<!--
 
-**Here are some ideas to get you started:**
+<h3 align="center">TEAM LIAN</h3>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <p align="center">
+    리안워 개발팀 공식 깃허브 입니다.
+    <br />
+    <a href="https://discord.gg/WHNRCdsPEZ">Discord</a>
+    ·
+    <a href="https://lianwar.kr">Website</a>
+  </p>
+</div>
+
+## [>> lianwar.kr](https://lianwar.kr)
+
+
+### 작성예정...
+...
+
+### 팀원
+- [AlphaGot](https://github.com/dev-alphagot) | Main Dev
+- [_Connor](https://github.com/underconnor) | Main Dev
